@@ -1,24 +1,37 @@
 # 🍏 Apple Vision Pro Clone Website
 
-A front-end clone of Apple’s **Vision Pro product showcase** webpage.  
-This project demonstrates smooth scrolling, scroll-triggered animations, and canvas-based 3D visualization using **HTML, CSS, and JavaScript**.
+A front-end clone of Apple’s **Vision Pro product showcase** page.  
+Built with **HTML, CSS, and JavaScript** featuring smooth scrolling, scroll-triggered animations, and canvas-based 3D visualization.
 
 ---
 
-## 📌 Features
+## ✨ Features
 - Smooth scrolling with **Locomotive Scroll**  
-- Scroll-triggered animations with **GSAP + ScrollTrigger**  
-- **Canvas image sequence** for 3D Vision Pro rotation  
-- Fullscreen **background videos** on multiple sections  
-- Apple-style minimal design and typography  
-- Responsive layouts for large screens  
+- **Scroll-triggered animations** with GSAP + ScrollTrigger  
+- **Canvas image sequence** for 360° product rotation  
+- Apple-style minimal design with fullscreen video backgrounds  
+- Responsive layout  
 
 ---
 
 ## 🛠️ Tech Stack
-- **HTML5** – Structure  
-- **CSS3** – Styling and layouts  
-- **JavaScript (ES6)** – Interactivity & animations  
-- **GSAP + ScrollTrigger** – Advanced animations  
-- **Locomotive Scroll** – Smooth scrolling  
-- **Canvas API** – Product 360° rotation  
+- HTML5  
+- CSS3  
+- JavaScript (ES6)  
+- GSAP + ScrollTrigger  
+- Locomotive Scroll  
+- Canvas API  
+
+---
+
+## ▶️ Run Locally
+1. Clone the repo  
+2. Open `index.html` in a modern browser  
+3. (Optional) Use **VS Code + Live Server** for better performance  
+
+---
+
+## 📸 Preview
+*(Insert screenshot of your project here)*  
+```md
+![Preview](images/preview.png)
