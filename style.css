@@ -532,7 +532,7 @@ body {
     position: absolute;
     height: 20%;
     width: 20%;
-    bottom: 18%;
+    bottom: 50%;
     right: 5%;
     color: #fff;
 }
@@ -599,4 +599,61 @@ body {
     width: 100%;
     object-fit: cover;
     opacity:0
+}
+
+#page24{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-color: #000;
+}
+#end-page24>img{
+   position: absolute;
+   object-fit: contain;
+   top: 5%;
+    left: 45%;
+    height: 11%;
+    width: 11%;
+}
+
+#end-page24>h2{
+    position: absolute;
+    color: #434343c7;
+   font-weight: 800;
+   font-size: 30px;
+    width: 50%;
+    top: 20%;
+    left: 30%;
+}
+
+#end-page24>h3{
+    position: absolute;
+    color: #fff;
+   font-weight: 800;
+   font-size: 20px;
+    width: 70%;
+    top: 90%;
+    left: 25%;
+}
+
+#end-page24>h1{
+    position: absolute;
+    color: #fff;
+   font-weight: 800;
+   font-size: 30px;
+    width: 70%;
+    top: 40%;
+    left: 35%;
+}
+
+#end-page24>p{
+    position: absolute;
+    color: #fff;
+   font-weight: 800;
+   font-size: 20px;
+    width: 70%;
+    height: 40%;
+    top: 50%;
+    width: 30%;
+    left: 35%;
 }
